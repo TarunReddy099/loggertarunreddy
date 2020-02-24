@@ -1,0 +1,39 @@
+Feb 24, 2020 10:57:31 PM com.loglog.loglog.App main
+INFO: Class Started
+Feb 24, 2020 10:57:31 PM com.loglog.loglog.calculate <init>
+INFO: enter the value of principle amount
+1
+Feb 24, 2020 10:57:37 PM com.loglog.loglog.calculate <init>
+INFO: enter the value of time period(in years)
+1
+Feb 24, 2020 10:57:39 PM com.loglog.loglog.calculate <init>
+INFO: enter the rate of interest(in %)
+1
+Feb 24, 2020 10:57:39 PM com.loglog.loglog.calculate <init>
+INFO: Choose 
+1.Simple Interest
+2.Compound Interest
+1
+Feb 24, 2020 10:57:40 PM com.loglog.loglog.calculate <init>
+INFO: 
+The Intrest amount is 0.01 Rupees
+Feb 24, 2020 10:57:40 PM com.loglog.loglog.calculate <init>
+INFO: Simple Intrest calculated
+Feb 24, 2020 11:07:46 PM com.loglog.loglog.Construction main
+INFO: Function Called
+Feb 24, 2020 11:07:46 PM com.loglog.loglog.cost <init>
+INFO: Welcome to Epam Constructions
+Please Select the type of material
+1.standard materials
+2.above standard materials
+3.high standard material
+4.Fully automated House
+2
+Feb 24, 2020 11:07:49 PM com.loglog.loglog.cost <init>
+INFO: enter the area of the house(In square feets)
+2323
+Feb 24, 2020 11:07:53 PM com.loglog.loglog.cost <init>
+INFO: 
+The Estimated cost is 3484500 Rupees
+Feb 24, 2020 11:07:53 PM com.loglog.loglog.cost <init>
+INFO: Cost estimated successfully
